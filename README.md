@@ -4,7 +4,7 @@
 The **ABC Grocery Decision Tree Regression** project uses **Decision Trees** to predict the target variable based on customer transaction and demographic data. The model helps ABC Grocery understand how different features, such as transaction history, customer demographics, and other variables, influence customer behavior. This prediction model can assist in inventory management, marketing, and customer engagement strategies.
 
 ## Objective:
-The primary objective of this project is to use **Decision Tree Regressor** to predict customer behavior (e.g., **sales prediction** or **loyalty score**) based on historical transaction and customer data. The project aims to assess which features most affect the target variable, improve predictive accuracy, and provide actionable insights for ABC Grocery.
+The primary objective of this project is to use **Decision Tree Regressor** to predict customer behaviour (e.g., **sales prediction** or **loyalty score**) based on historical transaction and customer data. The project aims to assess which features most affect the target variable, improve predictive accuracy, and provide actionable insights for ABC Grocery.
 
 ## Key Features:
 - **Data Preprocessing**: The project handles data cleaning, feature selection, and outlier removal to ensure that the decision tree algorithm operates efficiently.
